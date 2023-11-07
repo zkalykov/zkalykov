@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @zkalykov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning everyt
+- 🌱 I’m currently learning idk what ) 
 - 📫 How to reach me : instagram @zhkalykov
-
-<!---
-zkalykov/zkalykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
