@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zkalykov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning idk what ) 
+- 🌱 I’m currently learning EVERYTHING
 - 📫 How to reach me : instagram @zhkalykov
 
 <p style="text-align:center; display: flex; justify-content: center; align-items: center;">
