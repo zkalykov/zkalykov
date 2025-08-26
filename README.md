@@ -21,3 +21,17 @@ languages = ["Python", "JavaScript", "TypeScript", "C++", "Java", "SQL"]
 ai_ml = ["PyTorch", "TensorFlow", "OpenCV", "scikit-learn", "OpenAI API"]
 web = ["React", "FastAPI", "Next.js", "PostgreSQL", "Tailwind CSS"]
 tools = ["Git", "Docker", "Google Colab", "ChromaDB", "FFmpeg"]
+```
+
+
+### 📊 GitHub Stats
+<p style="text-align:center; display: flex; justify-content: center; align-items: center;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkalykov&show_icons=true&locale=en&layout=compact&theme=dark" alt="zkalykov" height="200" style="border: none;"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zkalykov&theme=dark" alt="zkalykov" height="200" style="border: none;"/>
+</p>
+
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/zhyrgalbekkalykov/)  
+- 🌐 [Portfolio](https://zkalykov.github.io/)  
+
