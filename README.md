@@ -25,7 +25,7 @@ tools = ["Git", "Docker", "Google Colab", "ChromaDB", "FFmpeg"]
 
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zkalykov&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zkalykov&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 
 ### 📫 Let's Connect
